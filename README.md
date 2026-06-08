@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Desenvolvedor Front-End em evolução <br>
-🚀 Criando projetos modernos e experiências visuais incríveis
+🎯 Construindo soluções web com foco em qualidade e performance!
 </p>
 
 ---
@@ -55,10 +55,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 ## 🌐 Contato
 
 <div>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 <a href="mailto:igorheenriquesantoss@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
